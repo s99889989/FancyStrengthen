@@ -1,0 +1,6 @@
+name: FancyStrengthen
+version: @version@
+main: com.daxton.fancystrengthen.FancyStrengthen
+api-version: 1.16
+prefix: FancyStrengthen
+authors: [ s99889989 ]
